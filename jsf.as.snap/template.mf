@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jsf.as.snap
+Bundle-SymbolicName: jsf.as.snap
+Bundle-Version: 0.0.1
+Bundle-ClassPath: .,WEB-INF/classes
+Require-Bundle: org.glassfish.com.sun.faces,
+ org.primefaces
+Snap-Host: jsf.as.host;version="[0.0.1,1)"
+Snap-ContextPath: /jsf.as.snap

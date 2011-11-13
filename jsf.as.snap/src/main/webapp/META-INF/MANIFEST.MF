@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Require-Bundle: org.glassfish.com.sun.faces,org.primefaces
+Bundle-ClassPath: .,WEB-INF/classes
+Bundle-Version: 0.0.1
+Tool: Bundlor 1.1.0.BUILD-20101220120024
+Bundle-Name: jsf.as.snap
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: jsf.as.snap
+Import-Package: javax.faces.webapp
+Snap-Host: jsf.as.host;version="[0.0.1,1)"
+Snap-ContextPath: /jsf.as.snap
+
